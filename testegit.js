@@ -1,1 +1,1 @@
-console.log('texto novo para o GIT')
+console.log('texto para o site do github :>')
