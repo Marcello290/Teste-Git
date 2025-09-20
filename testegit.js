@@ -1,4 +1,4 @@
-let copos = 3
+let numero = 3
 
-console.log('texte do git commit ;(')
-console.log(`tenho, ${copos}`)
+console.log('aprendendo a programar :)')
+console.log(`tenho ${numero} copos de barro`)
