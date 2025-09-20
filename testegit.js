@@ -1,1 +1,1 @@
-console.log('texto para o site do github :>')
+console.log('texte do git commit ;(')
